@@ -1,2 +1,7 @@
-# Mom_and_Kids_App
-Mom &amp; Kids App is an app that provides parental education service about pregnancy growth and first 1000 days after birth (toddler)
+#MOM AND KIDS
+
+![](https://github.com/Ratkum01/vsedlyamom/blob/main/assets/readme/1.png?raw=true)
+![](https://github.com/Ratkum01/vsedlyamom/blob/main/assets/readme/2.png?raw=true)
+![](https://github.com/Ratkum01/vsedlyamom/blob/main/assets/readme/3.png?raw=true)
+![](https://github.com/Ratkum01/vsedlyamom/blob/main/assets/readme/4.png?raw=true)
+![](https://github.com/Ratkum01/vsedlyamom/blob/main/assets/readme/5.png?raw=true)
